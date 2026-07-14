@@ -1,7 +1,7 @@
 Espresso: Cà phê nguyên chất đậm đặc, ép bằng máy áp lực cao.
-Americano: Cà phê Espresso pha loãng với nước nóng, vị thanh nhẹ.
+Americano: Cà phê Espresso pha loãng với nước nóng, vị thanh nhẹ.1
+Americano: Cà phê Espresso pha loãng với nước nóng, vị thanh nhẹ.2
 Cappuccino: Gồm Espresso, sữa nóng và lớp bọt sữa dày mịn bằng nhau.
-Cappuccino: Gồm Espresso, sữa nóng và lớp bọt sữa dày mịn bằng nhau.2
-Latte: Tương tự Cappuccino nhưng nhiều sữa nóng và ít bọt sữa hơn.
-Macchiato: Espresso có thêm một chút bọt sữa hoặc sốt caramel trên bề mặt.Mocha: Sự kết hợp giữa Espresso, sữa nóng và sốt chocolate thơm ngọt.
+Latte: Tương tự Cappuccino nhưng nhiều sữa nóng và ít bọt sữa hơn.1
 Latte: Tương tự Cappuccino nhưng nhiều sữa nóng và ít bọt sữa hơn.2
+Macchiato: Espresso có thêm một chút bọt sữa hoặc sốt caramel trên bề mặt.Mocha: Sự kết hợp giữa Espresso, sữa nóng và sốt chocolate thơm ngọt.
